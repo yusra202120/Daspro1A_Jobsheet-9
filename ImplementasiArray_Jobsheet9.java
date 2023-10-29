@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tugaskelarray {
+public class ImplementasiArray_Jobsheet9 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
